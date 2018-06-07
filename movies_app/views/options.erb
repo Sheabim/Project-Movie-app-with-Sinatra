@@ -1,0 +1,17 @@
+
+
+
+<div class=main>
+
+	<h1 class="h">MOVIES</h1>
+
+
+<% @movie_search["Search"].each do |movie_choice| %>
+
+
+<li><a href="/movie?movie_title=<%= movie_choice["Title"] %>"><%= movie_choice["Title"] %></a> 
+</li>
+
+<% end %>
+
+</div>
