@@ -1,2 +1,2 @@
 # Project-Movie-app-with-Sinatra
-Attemp to Movie app with Sinatra
+Attempted to develope a Movie app with Sinatra
